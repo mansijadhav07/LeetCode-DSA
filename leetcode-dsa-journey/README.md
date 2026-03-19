@@ -3,8 +3,8 @@
 > Automated sync of accepted LeetCode solutions. Most recent: **Palindrome Number**.
 
 ## 📈 Snapshot
-- **Total Solved:** 2
-- **Difficulty Mix:** 🟢 0 Easy | 🟡 2 Medium | 🔴 0 Hard
+- **Total Solved:** 3
+- **Difficulty Mix:** 🟢 0 Easy | 🟡 3 Medium | 🔴 0 Hard
 - **Current Streak:** 1 day streak
 - **Last Submission:** Mar 19, 2026
 
